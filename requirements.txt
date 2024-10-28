@@ -1,2 +1,6 @@
 docx
 pypdf2
+getpass
+docx.shared
+unittest.mock
+unittest
