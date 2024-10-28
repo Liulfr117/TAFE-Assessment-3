@@ -1,5 +1,3 @@
 docx
 pypdf2
-docx.shared
-unittest.mock
 unittest
