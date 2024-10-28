@@ -1,0 +1,2 @@
+docx
+pypdf2
